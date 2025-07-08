@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1751879720 source:c:\users\hp\desktop\data srutcture in c\project3_palestine_map\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
