@@ -1,4 +1,7 @@
-# Palestine_MST_RoodMap
+# Palestine_MST_RoadMap
+
+![image](https://github.com/user-attachments/assets/20db223d-30b3-42f1-ae9f-a04fba9c66f0)
+
 This C program builds a graph of cities and roads from a file and applies Prim’s and Kruskal’s algorithms to compute the Minimum Spanning Tree (MST)
  The goal is to help visualize and compare the performance and cost of both algorithms in terms of execution time and total distance.
 
